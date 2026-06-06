@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: abdul
+    Linux system name: abdul-mint
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/abdul/ops445/lab5
+    Start at: Fri Jun  5 23:45:32 2026
+=================================================================
